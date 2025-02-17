@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Christian (Trenzy) Treasure
 
-<!--
-**trenzyfx1/trenzyfx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** with expertise in **HTML, CSS, Tailwind CSS, and JavaScript**. I love building sleek, professional, and high-performing web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I have **2 years of experience** in web development.
+- 🌍 Worked with **10+ worldwide clients**.
+- 🏆 Completed **5+ senior projects** and various basic projects.
+- 🎓 Certified by **WebDeves Company**.
+- 🔭 Currently working on **a micro SaaS for online fitness coaches**.
+- 🌱 Learning and exploring **advanced JavaScript**.
+- 👯 Open to collaborations on exciting web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Let's Connect
+- 💬 Ask me about **frontend development, web design, or freelancing**.
+- 📫 Reach me via **rolemodel987@gmail.com**.
+- 🌐 Resume: https://drive.google.com/file/d/16SGgIsbRDyb-vG9dxmMoWPD6bpqtQdX8/view?usp=drive_link
+- LINKEDIN : https://www.linkedin.com/in/christian-treasure-b46882336/
+
+⚡ Fun fact: I love UK rap, especially **Central Cee** 🎵
+
+Let's build something amazing together! 🚀
